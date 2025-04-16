@@ -2,8 +2,6 @@
 
 ## Logging in
 
-<video controls src="recordings/01-logging-in.mp4" title="Title"></video>
-
 ### Getting to the right site
 
 Let's get started in Polaris Leap by getting to the right site and logging in. First, visit the appropriate link below:
@@ -67,12 +65,11 @@ On the right-hand side of the screen at the top, click **Help** and a dropdown m
 
 ### Leap Topics
 
-<video controls src="recordings/10-help-leap-topics.mp4" title="Title"></video>
+
 
 ### Keyboard
 
-<video controls src="recordings/11-help-keyboard.mp4" title="Title"></video>
+
 
 ### About
 
-<video controls src="recordings/10-help-leap-topics.mp4" title="Title"></video>
