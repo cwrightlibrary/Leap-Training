@@ -165,13 +165,17 @@ Let's say you've searched for a patron's record and opened it. A workform will a
 
 Additionally you can go to the different options: **Check Out**, **Out/Overdue**, **Account**, and **Claims/Lost**.
 
+You'll commonly use the default **Check Out** option, just scan the items the patron is checking out and press **COMPLETE** to print a check-out reciept for the patron. 
+
 ## Bibliographic Records
 
+Let's say you've opened a workform for a bibliographic item record. There will be a few options you can select from: **SAVE** will be clickable if you adjusted the record, **ACTIONS ↓** will show a dropdown list where you can place a hold, create an item, copy or delete the record, and add to record sets. **LINKS ↓** will let you view the holds queue or the PAC view. The button with an arrow pointing in a window will close the item record and take you back to your search results and close will close the record and either take you to your last-opened workform or the main menu.
 
+At the bottom, you can look at the **⨁︎ Preview** will show the PAC view, the **Items** button will show you each item in our system for that item, the **Record Sets** button will show all associated record sets including the item, the others are self-explanatory.
 
 ## Record Sets
 
-
+Considering you've searched for and opened a Bibliographic Record Set and you have the proper permissions to view/edit it, you'll be able to change general information like the name and add/remove items to/from this record set. Additionally, in the actions button, you can use some of the options available therein.
 
 ## Getting more help
 
@@ -179,11 +183,55 @@ On the right-hand side of the screen at the top, click **Help** and a dropdown m
 
 ### Leap Topics
 
-
+When you click this, a new tab will open with documentation on using Leap. This is very useful if you want to go through it to understand things better.
 
 ### Keyboard
 
+This will bring up a dialog box with a table of shortcuts and their actions:
 
+#### Actions
+
+| Ctrl + Shift + | shortcut |
+| --- | --- |
+| New Patron | y |
+| Check in | / |
+| Filter | f |
+| Complete Checkout | . |
+| Save | z |
+
+#### Patron Views
+
+| Ctrl + Shift + | shortcut |
+| --- | --- |
+| Check Out | 1 |
+| Out/Overdue | 2 |
+| Account | 3 |
+| Claims/Lost | 4 |
+| Holds/Held | 5 |
+| Notes | 6 |
+| Reading History | 7 |
+| Associations | 8 |
+| Notices | 9 |
+| Registration | ; |
+
+#### MARC Editor
+
+| Ctrl + | shortcut |
+| --- | --- |
+| Insert subfield delimiter (‡) | q |
+| Insert tag | i |
+| Delete tag | d |
+| Move focus up | Up arrow |
+| Move focus down | Down arrow |
+| Display/hide hint | h |
+| Open/Close | e |
+| Save changes and close | s |
+
+| Shift + | shortcut |
+| --- | --- |
+| Move tag up | Up arrow |
+| Move tag down | Down arrow |
 
 ### About
 
+This dialog box will show information about the system as well as your user name, domain, ID, branch, workstation, and computer name.
